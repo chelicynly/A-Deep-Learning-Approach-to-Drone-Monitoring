@@ -1,7 +1,7 @@
 
 # A Deep Learning Approach to Drone Monitoring
 ### [[paper]](https://arxiv.org/pdf/.pdf)
-
+![overview](https://user-images.githubusercontent.com/16787952/33512269-7ee320c2-d6e1-11e7-93be-76891c575726.png)
 ## Abstract
 A drone monitoring system that integrates deep-learning-based detection
 and tracking modules is proposed in this work.  The biggest challenge in
@@ -17,6 +17,7 @@ even being trained on synthetic data, the proposed system performs well
 on real world drone images with complex background. The USC drone
 detection and tracking dataset with user labeled bounding boxes is
 available to the public.
+## Dataset
 
 ## Acknowledgments
 This research is supported by a grant from the Pratt & Whitney
