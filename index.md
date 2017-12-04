@@ -25,6 +25,7 @@ available to the public.
 ### [[usc drone dataset]](https://drive.google.com/open?id=1JzKESVGtS9VX80XL-D3DuUmcWE0doeJg)
 ![uscdrone](https://user-images.githubusercontent.com/16787952/33512268-7b189684-d6e1-11e7-9868-91e3b8299ed5.png)
 ### [[thermal usc drone dataset]](https://drive.google.com/open?id=1jsdmOvXqtB6e9H-02CqnKUaOH33kNigV)
+![thermal-drone](https://user-images.githubusercontent.com/16787952/33532395-33908bf0-d84e-11e7-8ffb-6a48ed5bde52.png)
 ## Acknowledgments
 This research is supported by a grant from the Pratt & Whitney
 Institute of Collaborative Engineering (PWICE). 
