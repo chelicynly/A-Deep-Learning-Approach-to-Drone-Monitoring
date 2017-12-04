@@ -20,10 +20,11 @@ on real world drone images with complex background. The USC drone
 detection and tracking dataset with user labeled bounding boxes is
 available to the public.
 ## Dataset
-### [[online drone dataset]](https://arxiv.org/pdf/.pdf)
+### [[online drone dataset]](https://drive.google.com/open?id=1rWfiT8kXloUK5sdWYLyeGLSNus0f73iR)
 ![onlinedrone](https://user-images.githubusercontent.com/16787952/33512265-6bd137da-d6e1-11e7-85d8-0a98929a3260.png)
-### [[usc drone dataset]](https://arxiv.org/pdf/.pdf)
+### [[usc drone dataset]](https://drive.google.com/open?id=1JzKESVGtS9VX80XL-D3DuUmcWE0doeJg)
 ![uscdrone](https://user-images.githubusercontent.com/16787952/33512268-7b189684-d6e1-11e7-9868-91e3b8299ed5.png)
+### [[thermal usc drone dataset]](https://drive.google.com/open?id=1jsdmOvXqtB6e9H-02CqnKUaOH33kNigV)
 ## Acknowledgments
 This research is supported by a grant from the Pratt & Whitney
 Institute of Collaborative Engineering (PWICE). 
