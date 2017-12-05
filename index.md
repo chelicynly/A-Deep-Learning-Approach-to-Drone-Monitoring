@@ -1,6 +1,6 @@
 
 ## A Deep Learning Approach to Drone Monitoring
-### [[paper]](https://arxiv.org/pdf/.pdf)
+### [[paper]](https://arxiv.org/abs/1712.00863)
 #### Yueru Chen, Ye Wang, Pranav Aggarwal, Jongmoo Choi, and C.-C. Jay Kuo
 ## Overview of the system
 ![overview](https://user-images.githubusercontent.com/16787952/33512269-7ee320c2-d6e1-11e7-93be-76891c575726.png)
